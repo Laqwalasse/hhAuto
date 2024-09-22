@@ -6,7 +6,7 @@ userDataDir=C:/Users/User/AppData/Local/Google/Chrome/User Data
 
 executablePath=C:/Program Files/Google/Chrome/Application/chrome.exe
 
-outputPath=C:/Users/User/The-Strike-Back/historian
+outputPath=C:/Users/User/JobuxAuto/historian
 
 jobTitles=Fullstack-аналитик, Fullstack аналитик, Фулстек-аналитик, Фулстек аналитик, Бизнес-аналитик, Бизнес аналитик, Business Analyst, Аналитик бизнес-процессов, Системный аналитик, System Analyst
 
