@@ -32,7 +32,7 @@ app.whenReady().then(() => {
     });
 
     ipcMain.handle('run-script', async (event, script) => {
-        const scriptPath = path.join(__dirname, 'lib', script);  // Обновите путь к файлу
+        const scriptPath = path.join(__dirname, 'lib', script); 
         if (script.endsWith('.mjs')) {
             await import(new URL(`file://${scriptPath}`));  // Преобразование в URL
         } else {
