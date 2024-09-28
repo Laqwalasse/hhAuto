@@ -1,0 +1,52 @@
+{
+  "login": "login",
+  "password": "password",
+  "userDataDir": "C:/Users/User/AppData/Local/Google/Chrome/User Data",
+  "executablePath": "C:/Program Files/Google/Chrome/Application/chrome.exe",
+  "outputPath": "C:/Users/User/Desktop/Backup/PW test/cache",
+  "jobTitles": [
+    "Fullstack-аналитик",
+    "Fullstack аналитик",
+    "Фулстек-аналитик",
+    "Фулстек аналитик",
+    "Бизнес-аналитик",
+    "Бизнес аналитик",
+    "Business Analyst",
+    "Аналитик бизнес-процессов",
+    "Системный аналитик",
+    "System Analyst"
+  ],
+  "exclusionWords": [
+    "Аккаунт",
+    "Account",
+    "Помощник",
+    "Ассистент",
+    "Стажёр",
+    "Стажер",
+    "Стажировка",
+    "1С",
+    "1C",
+    "Bitrix",
+    "Bitrix24",
+    "Битрикс",
+    "Битрикс24",
+    "CRM",
+    "C1",
+    "C2",
+    "С1",
+    "С2"
+  ],
+  "fieldSelectors": [7],
+  "countrySelectors": [113, 5, 40, 9, 16, 28, 1001, 48, 97],
+  "pageNum": 3,
+  "appliedCount": 10,
+  "experienceOrder": {
+    "Опыт 1-3 года": 1,
+    "Опыт 3-6 лет": 2,
+    "Без опыта": 3,
+    "Опыт более 6 лет": 4
+  },
+  "resumeText": "Fullstack-аналитик",
+  "headless": false,
+  "executionModeVirtual": false
+}

@@ -1,23 +1,18 @@
 {
-  "name": "JobuxAuto",
+  "name": "Vanity",
   "version": "1.0.0",
-  "main": "main.js",
+  "main": "src/main.js",
   "scripts": {
     "start": "electron .",
     "build": "electron-packager . my-electron-app --platform=darwin,win32,linux --arch=x64 --out=dist --overwrite"
   },
   "dependencies": {
-    "axios": "^1.7.2",
     "electron": "^31.2.1",
     "electron-packager": "^17.0.0",
     "exceljs": "^4.4.0",
-    "exec": "^0.2.1",
     "fs": "^0.0.1-security",
-    "http": "^0.0.1-security",
-    "iconv-lite": "^0.6.3",
     "path": "^0.12.7",
-    "puppeteer": "^22.13.1",
-    "url": "^0.11.3",
-    "standard-version": "^9.5.0"
+    "playwright": "^1.47.2",
+    "url": "^0.11.3"
   }
 }
